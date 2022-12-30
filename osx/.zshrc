@@ -1,7 +1,6 @@
 #vim ~/.zshrc
 #source ~/.zshrc
 
-
 alias gs='git status'
 alias gr='git remote -v'
 alias gl='git log'
